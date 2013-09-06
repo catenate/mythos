@@ -1,0 +1,3 @@
+git status --porcelain --branch
+git add .
+git status --porcelain --branch
