@@ -1,2 +1,4 @@
 mkdir nb
 git
+git add .
+git commit -a -m 'Carl Sagan, Cosmos.'

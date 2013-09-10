@@ -1,3 +1,7 @@
 git status --porcelain --branch
 git add .
 git status --porcelain --branch
+git commit -a -m 'Carl Sagan, Cosmos.'
+git status --porcelain --branch
+git add .
+git status --porcelain --branch
